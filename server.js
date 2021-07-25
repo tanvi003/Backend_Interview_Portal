@@ -1,4 +1,4 @@
-const PORT = 5000;
+const PORT = 80;
 const Sequelize = require('sequelize')
 const Op = Sequelize.Op;
 
